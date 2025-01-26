@@ -1,4 +1,4 @@
-<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥GITHUB STUFF🔥&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
+<h1 align="center">🔥GITHUB STUFF🔥</h1>
 <p>&nbsp;</p>
 <p align="center">
   <table>
@@ -15,12 +15,16 @@
      <details>
        <summary><b>💻 Skills</b></summary>
        <p>&nbsp;</p>
+        <table>
+        <tr>
       <a href="https://bio.site/czech">
-        <td style="padding=0;">
-    <p align="center"><img align="center" width=60% height=60% style="padding=0;" src="https://github-widgetbox.vercel.app/api/skills?languages=ruby,html&includeNames=true" alt="GitHubWidget Box"></p>
+        <td style="padding=0;width=60%;">
+    <p align="center"><img align="center" style="padding=0;" src="https://github-widgetbox.vercel.app/api/skills?languages=ruby,html&includeNames=true" alt="GitHubWidget Box"></p>
           </td>
       <a href="https://bio.site/czech">
-        <td style="padding=0;">
-    <p align="center"><img align="center" width=60% height=60% style="padding=0;" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows&includeNames=true" alt="GitHubWidget Box"></p>
+        <td style="padding=0;width=60%;">
+    <p align="center"><img align="center" style="padding=0;" src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows&includeNames=true" alt="GitHubWidget Box"></p>
           </td>
+         <tr>
+           </table>
     </details>

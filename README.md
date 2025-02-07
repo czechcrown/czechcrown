@@ -16,7 +16,7 @@
         <tr>
       <a href="https://bio.site/czech">
         <td style="padding=0;width=60%;">
-    <p align="center"><img align="center" width="60%" style="padding=0;" src="https://github-widgetbox.vercel.app/api/skills?languages=ruby,html&includeNames=true" alt="GitHubWidget Box"></p>
+    <p align="center"><img align="center" width="60%" style="padding=0;" src="https://github-widgetbox.vercel.app/api/skills?languages=ruby,html,js&includeNames=true" alt="GitHubWidget Box"></p>
           </td>
       <a href="https://bio.site/czech">
         <td>
